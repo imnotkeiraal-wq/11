@@ -1,0 +1,3175 @@
+{
+  "scriptVersion": 1,
+  "id": "jaemin-ambiguity-sim",
+  "title": "和 Jaemin 的暧昧模拟器",
+  "description": "粉丝向虚构互动手机故事（平行世界）。所有人物对话、社交动态、购物记录均为虚构创作，不代表任何真实人物的真实经历或私生活。",
+  "revision": 1,
+  "phone": {
+    "owner": "你",
+    "date": "2026-10-30",
+    "time": "23:08",
+    "battery": 62,
+    "network": "5G",
+    "wallpaper": "apple-wwdc26"
+  },
+  "installedApps": [
+    "phone",
+    "contacts",
+    "photos",
+    "camera",
+    "safari",
+    "notes",
+    "calendar",
+    "maps",
+    "music",
+    "settings",
+    "kakao",
+    "instagram",
+    "twitter",
+    "threads",
+    "forum",
+    {
+      "id": "taobao",
+      "name": "Coupang 쿠팡",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": "쿠팡"
+    }
+  ],
+  "contacts": [
+    {
+      "id": "jaemin",
+      "name": "Jaemin 🐈",
+      "phone": "",
+      "bio": "摄影、做饭、三只布偶猫（Luna / Lucy / Luke）。最近在学日语。"
+    },
+    {
+      "id": "jisung",
+      "name": "Jisung",
+      "phone": "",
+      "bio": "气氛担当，偶尔说漏嘴。"
+    },
+    {
+      "id": "haechan",
+      "name": "Haechan",
+      "phone": "",
+      "bio": "爱起哄，消息比谁都多。"
+    },
+    {
+      "id": "jeno",
+      "name": "Jeno",
+      "phone": "",
+      "bio": "话少，吐槽精准。"
+    }
+  ],
+  "chats": [
+    {
+      "id": "chat-jaemin",
+      "app": "kakao",
+      "title": "Jaemin 🐈",
+      "participants": [
+        "owner",
+        "jaemin"
+      ],
+      "messages": [
+        {
+          "id": "jm-001",
+          "body": "📷 [照片] 窗边晒太阳的 Luna",
+          "time": "2026-10-27 20:41",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-002",
+          "body": "Luna가 오늘 해 좋다고 계속 저기만 있었어",
+          "time": "2026-10-27 20:41",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-003",
+          "body": "哈哈哈它好会找位置",
+          "time": "2026-10-27 20:44",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-004",
+          "body": "是不是在抢你相机包的位置",
+          "time": "2026-10-27 20:44",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-005",
+          "body": "ㅋㅋㅋㅋ 맞아 카메라 가방 위에 올라가서 안 내려옴",
+          "time": "2026-10-27 20:46",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-006",
+          "body": "Lucy는 그거 보고 질투해서 내 노트북 위에 앉았고",
+          "time": "2026-10-27 20:46",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-007",
+          "body": "Luke 呢？",
+          "time": "2026-10-27 20:49",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-008",
+          "body": "Luke는 평화주의자. 밥그릇 옆에서 조용히 기다리는 중",
+          "time": "2026-10-27 20:50",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-009",
+          "body": "세 마리 다 자기 스케줄이 있어",
+          "time": "2026-10-27 20:50",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-010",
+          "body": "你们家猫比我还忙",
+          "time": "2026-10-27 20:52",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-011",
+          "body": "그건 인정",
+          "time": "2026-10-27 20:53",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-012",
+          "body": "오늘 필름 스캔본 봤어? 3번째 컷 좋던데",
+          "time": "2026-10-27 20:55",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-013",
+          "body": "第三张？逆光那张吗",
+          "time": "2026-10-27 20:58",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-014",
+          "body": "응. 손 살짝 걸친 거",
+          "time": "2026-10-27 20:58",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-015",
+          "body": "그 빛 좋더라. 의도한 거 아니지?",
+          "time": "2026-10-27 20:59",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-016",
+          "body": "完全是意外…本来想删的",
+          "time": "2026-10-27 21:03",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-017",
+          "body": "지우지 마",
+          "time": "2026-10-27 21:04",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-018",
+          "body": "가끔은 실수한 컷이 제일 잘 나와",
+          "time": "2026-10-27 21:04",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-019",
+          "body": "好吧，听摄影师的",
+          "time": "2026-10-27 21:07",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-020",
+          "body": "ㅋㅋ 나 아직 초보야",
+          "time": "2026-10-27 21:08",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-021",
+          "body": "근데 칭찬은 받을게",
+          "time": "2026-10-27 21:08",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-022",
+          "body": "좋은 아침~ 오늘 비 온대. 우산 챙겨",
+          "time": "2026-10-28 08:12",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-023",
+          "body": "刚看到！谢谢提醒",
+          "time": "2026-10-28 08:40",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-024",
+          "body": "早上好！ ← 이건 알아",
+          "time": "2026-10-28 08:41",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-025",
+          "body": "发音很标准啊",
+          "time": "2026-10-28 08:43",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-026",
+          "body": "진짜? 영상 보고 따라 한 거야",
+          "time": "2026-10-28 08:44",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-027",
+          "body": "정식으로 배울 계획은 있어. 일본어 먼저 끝내고",
+          "time": "2026-10-28 08:44",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-028",
+          "body": "你日语学到哪了",
+          "time": "2026-10-28 08:46",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-029",
+          "body": "히라가나는 끝. 지금 가타카나에서 계속 막힘",
+          "time": "2026-10-28 08:47",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-030",
+          "body": "シ랑 ツ 구분 못 해ㅠㅠ",
+          "time": "2026-10-28 08:47",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-031",
+          "body": "这两个我也分不清哈哈",
+          "time": "2026-10-28 08:50",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-032",
+          "body": "다행이다. 동지가 있네",
+          "time": "2026-10-28 08:51",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-033",
+          "body": "점심 뭐 먹었어?",
+          "time": "2026-10-28 12:35",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-034",
+          "body": "便利店饭团，在赶项目",
+          "time": "2026-10-28 12:58",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-035",
+          "body": "그걸로 되겠어?",
+          "time": "2026-10-28 12:59",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-036",
+          "body": "저녁은 제대로 먹어",
+          "time": "2026-10-28 13:00",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-037",
+          "body": "오늘 김치볶음밥 했는데 성공",
+          "time": "2026-10-28 21:30",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-038",
+          "body": "📷 [照片] 平底锅里的泡菜炒饭，角落里有一截尾巴入镜（Lucy）",
+          "time": "2026-10-28 21:30",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-039",
+          "body": "看起来好好吃…",
+          "time": "2026-10-28 21:42",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-040",
+          "body": "你还会做饭？",
+          "time": "2026-10-28 21:42",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-041",
+          "body": "요리는 좀 해. 계란후라이 반숙이 포인트",
+          "time": "2026-10-28 21:44",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-042",
+          "body": "다음에 해줄까?",
+          "time": "2026-10-28 21:44",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-043",
+          "body": "你是认真的还是客套",
+          "time": "2026-10-28 21:50",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-044",
+          "body": "ㅋㅋㅋ 둘 다",
+          "time": "2026-10-28 21:51",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-045",
+          "body": "…농담이야. 반은",
+          "time": "2026-10-28 21:51",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-046",
+          "body": "你是不是很懂护肤？我换季脸好干",
+          "time": "2026-10-29 09:20",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-047",
+          "body": "세안 너무 뜨겁게 하지 마. 미온수로",
+          "time": "2026-10-29 09:34",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-048",
+          "body": "그리고 보습은 샤워 직후 3분 안에",
+          "time": "2026-10-29 09:34",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-049",
+          "body": "향 강한 거 쓰고 있으면 잠깐 끊어 봐",
+          "time": "2026-10-29 09:35",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-050",
+          "body": "你说得像医生一样",
+          "time": "2026-10-29 09:41",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-051",
+          "body": "그냥 관리를 오래 해서ㅋㅋ",
+          "time": "2026-10-29 09:42",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-052",
+          "body": "사람마다 달라서 너한테 맞는지는 모르겠지만",
+          "time": "2026-10-29 09:42",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-053",
+          "body": "你这样说话反而让人放心",
+          "time": "2026-10-29 09:45",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-054",
+          "body": "…그래?",
+          "time": "2026-10-29 09:46",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-055",
+          "body": "路过一家甜品店，看着超好吃，我发了 story",
+          "time": "2026-10-29 18:05",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-056",
+          "body": "봤어",
+          "time": "2026-10-29 18:20",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-057",
+          "body": "딸기 타르트 예쁘더라",
+          "time": "2026-10-29 18:20",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-058",
+          "body": "你不是不吃草莓吗哈哈哈",
+          "time": "2026-10-29 18:22",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-059",
+          "body": "안 먹는 거지, 안 예쁘다는 건 아니야",
+          "time": "2026-10-29 18:23",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-060",
+          "body": "우유 들어간 건 더 못 먹고ㅋㅋ",
+          "time": "2026-10-29 18:24",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-061",
+          "body": "那你去甜品店不是很受限",
+          "time": "2026-10-29 18:26",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-062",
+          "body": "그래서 두유 쓰는 집을 좀 알아",
+          "time": "2026-10-29 18:27",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-063",
+          "body": "나중에 알려줄게",
+          "time": "2026-10-29 18:27",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-064",
+          "body": "我下单了你说的无香保湿霜",
+          "time": "2026-10-29 20:30",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-065",
+          "body": "벌써?ㅋㅋ 성격 급하네",
+          "time": "2026-10-29 20:31",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-066",
+          "body": "도착하면 성분표 보여줘. 같이 봐줄게",
+          "time": "2026-10-29 20:32",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-067",
+          "body": "자기 전에 하나만",
+          "time": "2026-10-29 23:48",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-068",
+          "body": "오늘 하루 어땠어",
+          "time": "2026-10-29 23:48",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-069",
+          "body": "还行，就是有点累",
+          "time": "2026-10-29 23:55",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-070",
+          "body": "그럼 일찍 자. 잘 자 ㅎㅎ",
+          "time": "2026-10-29 23:56",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-071",
+          "body": "おやすみ。 맞게 썼나?",
+          "time": "2026-10-29 23:57",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-072",
+          "body": "对的",
+          "time": "2026-10-29 23:59",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-073",
+          "body": "오 첫 문장 성공",
+          "time": "2026-10-29 23:59",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-074",
+          "body": "오늘 스케줄 길어서 답장 늦을 수도 있어",
+          "time": "2026-10-30 10:12",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-075",
+          "body": "加油，别忘了吃饭",
+          "time": "2026-10-30 10:30",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-076",
+          "body": "ㅇㅇ",
+          "time": "2026-10-30 10:31",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-077",
+          "body": "📷 [照片] 休息室窗外的天，云很薄",
+          "time": "2026-10-30 14:20",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-078",
+          "body": "好好看",
+          "time": "2026-10-30 14:36",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-079",
+          "body": "빛이 좋아서",
+          "time": "2026-10-30 14:37",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-080",
+          "body": "…그리고 네가 좋아할 것 같아서",
+          "time": "2026-10-30 14:38",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-081",
+          "body": "谢谢，我很喜欢",
+          "time": "2026-10-30 14:45",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-082",
+          "body": "还在公司，晚点回你",
+          "time": "2026-10-30 19:40",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-083",
+          "body": "야근 끝났어?",
+          "time": "2026-10-30 22:30",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-084",
+          "body": "刚下班，在地铁上",
+          "time": "2026-10-30 22:41",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-085",
+          "body": "비 오는데 우산 있어?",
+          "time": "2026-10-30 22:42",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-086",
+          "body": "有，早上你提醒过",
+          "time": "2026-10-30 22:44",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-087",
+          "body": "다행.",
+          "time": "2026-10-30 22:44",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-088",
+          "body": "도착하면 말해줘",
+          "time": "2026-10-30 22:45",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-089",
+          "body": "好",
+          "time": "2026-10-30 22:46",
+          "senderId": "owner"
+        },
+        {
+          "id": "jm-live-1",
+          "body": "집 도착했어?",
+          "time": "2026-10-30 23:09",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-live-2",
+          "body": "아직 지하철이면 천천히 와도 돼",
+          "time": "2026-10-30 23:10",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-live-3",
+          "body": "읽으면 답장해줘. 걱정되는 건 아니고ㅋㅋ 그냥 궁금해서",
+          "time": "2026-10-30 23:12",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "jm-093",
+          "body": "到家啦，刚洗完澡",
+          "time": "2026-10-30 23:14",
+          "senderId": "owner",
+          "unlock": "r_warm"
+        },
+        {
+          "id": "jm-094",
+          "body": "다행이다",
+          "time": "2026-10-30 23:14",
+          "senderId": "jaemin",
+          "unlock": "r_warm"
+        },
+        {
+          "id": "jm-095",
+          "body": "오늘 하루 길었지",
+          "time": "2026-10-30 23:15",
+          "senderId": "jaemin",
+          "unlock": "r_warm"
+        },
+        {
+          "id": "jm-096",
+          "body": "머리 말리고 자 ㅋㅋ 감기 걸려",
+          "time": "2026-10-30 23:15",
+          "senderId": "jaemin",
+          "unlock": "r_warm"
+        },
+        {
+          "id": "jm-097",
+          "body": "到了。",
+          "time": "2026-10-30 23:14",
+          "senderId": "owner",
+          "unlock": "r_cool"
+        },
+        {
+          "id": "jm-098",
+          "body": "ㅇㅋ 수고했어",
+          "time": "2026-10-30 23:15",
+          "senderId": "jaemin",
+          "unlock": "r_cool"
+        },
+        {
+          "id": "jm-099",
+          "body": "답이 짧네. 오늘 많이 피곤했나",
+          "time": "2026-10-30 23:15",
+          "senderId": "jaemin",
+          "unlock": "r_cool"
+        },
+        {
+          "id": "jm-100",
+          "body": "무리해서 대답 안 해도 돼",
+          "time": "2026-10-30 23:16",
+          "senderId": "jaemin",
+          "unlock": "r_cool"
+        },
+        {
+          "id": "jm-101",
+          "body": "아 맞다",
+          "time": "2026-10-30 23:21",
+          "senderId": "jaemin",
+          "unlock": "asked"
+        },
+        {
+          "id": "jm-102",
+          "body": "내일 혹시 시간 돼?",
+          "time": "2026-10-30 23:21",
+          "senderId": "jaemin",
+          "unlock": "asked"
+        },
+        {
+          "id": "jm-103",
+          "body": "오후에. 성수 쪽",
+          "time": "2026-10-30 23:22",
+          "senderId": "jaemin",
+          "unlock": "asked"
+        },
+        {
+          "id": "jm-104",
+          "body": "그때 말한 두유 쓰는 디저트집, 가 보고 싶어서",
+          "time": "2026-10-30 23:22",
+          "senderId": "jaemin",
+          "unlock": "asked"
+        },
+        {
+          "id": "jm-105",
+          "body": "혼자 가기엔 좀 그렇고ㅋㅋ",
+          "time": "2026-10-30 23:23",
+          "senderId": "jaemin",
+          "unlock": "asked"
+        },
+        {
+          "id": "jm-106",
+          "body": "好啊，几点？",
+          "time": "2026-10-30 23:26",
+          "senderId": "owner",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-107",
+          "body": "2시 어때",
+          "time": "2026-10-30 23:26",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-108",
+          "body": "달빛제과. 2층에 창가 자리 있대",
+          "time": "2026-10-30 23:27",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-109",
+          "body": "딸기 없는 걸로 내가 미리 메뉴 봐 놨어",
+          "time": "2026-10-30 23:27",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-110",
+          "body": "너 좋아하는 크림 들어간 것도 있고",
+          "time": "2026-10-30 23:28",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-111",
+          "body": "난 못 먹지만ㅋㅋ",
+          "time": "2026-10-30 23:28",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-112",
+          "body": "你还提前研究了菜单？",
+          "time": "2026-10-30 23:30",
+          "senderId": "owner",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-113",
+          "body": "응. 영업시간도 확인했어",
+          "time": "2026-10-30 23:30",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-114",
+          "body": "토요일은 9시까지래",
+          "time": "2026-10-30 23:31",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-115",
+          "body": "그럼 내일 봐. 잘 자",
+          "time": "2026-10-30 23:32",
+          "senderId": "jaemin",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "jm-116",
+          "body": "我看看明天安排，早上再回你可以吗",
+          "time": "2026-10-30 23:26",
+          "senderId": "owner",
+          "unlock": "r_maybe"
+        },
+        {
+          "id": "jm-117",
+          "body": "응 괜찮아",
+          "time": "2026-10-30 23:27",
+          "senderId": "jaemin",
+          "unlock": "r_maybe"
+        },
+        {
+          "id": "jm-118",
+          "body": "부담 갖지 마. 안 되면 안 되는 거고",
+          "time": "2026-10-30 23:27",
+          "senderId": "jaemin",
+          "unlock": "r_maybe"
+        },
+        {
+          "id": "jm-119",
+          "body": "그래도 대답은 기다릴게. 느리게 와도 돼",
+          "time": "2026-10-30 23:28",
+          "senderId": "jaemin",
+          "unlock": "r_maybe"
+        },
+        {
+          "id": "jm-120",
+          "body": "잘 자",
+          "time": "2026-10-30 23:29",
+          "senderId": "jaemin",
+          "unlock": "r_maybe"
+        },
+        {
+          "id": "jm-121",
+          "body": "일어났어?",
+          "time": "2026-10-31 10:40",
+          "senderId": "jaemin",
+          "unlock": "m_morning"
+        },
+        {
+          "id": "jm-122",
+          "body": "아직 답 없어도 괜찮아 ㅎㅎ",
+          "time": "2026-10-31 10:41",
+          "senderId": "jaemin",
+          "unlock": "m_morning"
+        },
+        {
+          "id": "jm-123",
+          "body": "나 지금 성수 근처야. 그냥 말해두는 거야",
+          "time": "2026-10-31 11:20",
+          "senderId": "jaemin",
+          "unlock": "m_morning"
+        },
+        {
+          "id": "jm-124",
+          "body": "我想去。你还在吗？",
+          "time": "2026-10-31 11:32",
+          "senderId": "owner",
+          "unlock": "r_late_go"
+        },
+        {
+          "id": "jm-125",
+          "body": "있어",
+          "time": "2026-10-31 11:33",
+          "senderId": "jaemin",
+          "unlock": "r_late_go"
+        },
+        {
+          "id": "jm-126",
+          "body": "2시까지 천천히 와",
+          "time": "2026-10-31 11:33",
+          "senderId": "jaemin",
+          "unlock": "r_late_go"
+        },
+        {
+          "id": "jm-127",
+          "body": "나 도착했어. 자리 맡아 놨어",
+          "time": "2026-10-31 13:41",
+          "senderId": "jaemin",
+          "unlock": "morning"
+        },
+        {
+          "id": "jm-128",
+          "body": "창가야. 조금 늦어도 돼",
+          "time": "2026-10-31 13:41",
+          "senderId": "jaemin",
+          "unlock": "morning"
+        },
+        {
+          "id": "jm-129",
+          "body": "我也到楼下了。",
+          "time": "2026-10-31 13:52",
+          "senderId": "owner",
+          "unlock": "f_honest"
+        },
+        {
+          "id": "jm-130",
+          "body": "올라와. 메뉴 두유라떼 시켜 놨어",
+          "time": "2026-10-31 13:52",
+          "senderId": "jaemin",
+          "unlock": "f_honest"
+        },
+        {
+          "id": "jm-131",
+          "body": "等一下，有句话我想当面说。",
+          "time": "2026-10-31 13:53",
+          "senderId": "owner",
+          "unlock": "f_honest"
+        },
+        {
+          "id": "jm-132",
+          "body": "…나도 있어",
+          "time": "2026-10-31 13:54",
+          "senderId": "jaemin",
+          "unlock": "f_honest"
+        },
+        {
+          "id": "jm-133",
+          "body": "我到了，慢慢点就好。",
+          "time": "2026-10-31 13:52",
+          "senderId": "owner",
+          "unlock": "f_slow"
+        },
+        {
+          "id": "jm-134",
+          "body": "응. 급할 거 없어",
+          "time": "2026-10-31 13:53",
+          "senderId": "jaemin",
+          "unlock": "f_slow"
+        },
+        {
+          "id": "jm-135",
+          "body": "오늘은 케이크만 먹고, 나머지는 천천히 하자",
+          "time": "2026-10-31 13:53",
+          "senderId": "jaemin",
+          "unlock": "f_slow"
+        }
+      ]
+    },
+    {
+      "id": "chat-jisung",
+      "app": "kakao",
+      "title": "Jisung",
+      "participants": [
+        "owner",
+        "jisung"
+      ],
+      "messages": [
+        {
+          "id": "js-001",
+          "body": "안녕하세요! 지성이에요ㅋㅋ 형이 번호 알려줬어요",
+          "time": "2026-10-28 20:15",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-002",
+          "body": "你好呀，有点意外，但很高兴认识你",
+          "time": "2026-10-28 20:21",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-003",
+          "body": "ㅋㅋㅋㅋ 놀라셨죠? 저 원래 이런 성격이에요!!",
+          "time": "2026-10-28 20:22",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-004",
+          "body": "근데 재민이 형이 원래 답장 빠른 사람이 아닌데",
+          "time": "2026-10-28 20:23",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-005",
+          "body": "너한테만 이상하게 빨라요ㅋㅋㅋ",
+          "time": "2026-10-28 20:23",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-006",
+          "body": "可能是因为话题聊得来吧",
+          "time": "2026-10-28 20:27",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-007",
+          "body": "그럴 수도 있고요~ 아닐 수도 있고요~",
+          "time": "2026-10-28 20:28",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-008",
+          "body": "아 참 저 오늘 안무 또 틀렸어요ㅠㅠ 선생님이 한숨 쉬심",
+          "time": "2026-10-28 20:45",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-009",
+          "body": "你们最近行程很满吧",
+          "time": "2026-10-29 22:30",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-010",
+          "body": "맞아요 ㅠㅠ 근데 형은 쉬는 시간마다 폰 봐요",
+          "time": "2026-10-29 22:31",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-011",
+          "body": "아 근데 10월 9일 전시회 맞죠? 형이 그 날짜를 자꾸 말해서",
+          "time": "2026-10-29 22:31",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-012",
+          "body": "对，那天是第一次见",
+          "time": "2026-10-29 22:33",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-013",
+          "body": "그 날짜 기억해 두면 좋을 일이 있을 거예요ㅋㅋ",
+          "time": "2026-10-29 22:34",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-014",
+          "body": "Jaemin 今天忙吗",
+          "time": "2026-10-30 18:50",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-015",
+          "body": "스케줄은 완벽한데 하루 종일 폰 봐요",
+          "time": "2026-10-30 18:51",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-016",
+          "body": "무슨 일이냐고 물어도 대답 안 해 줌",
+          "time": "2026-10-30 18:51",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-017",
+          "body": "你知道原因吗？",
+          "time": "2026-10-30 18:55",
+          "senderId": "owner"
+        },
+        {
+          "id": "js-018",
+          "body": "음… 말하면 안 되는데ㅋㅋㅋ",
+          "time": "2026-10-30 18:56",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-019",
+          "body": "아 몰라요 저는 아무것도 몰라요 🙈",
+          "time": "2026-10-30 18:56",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-020",
+          "body": "형은 말보다 행동이 먼저예요. 사진으로 말하는 사람",
+          "time": "2026-10-30 18:58",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-021",
+          "body": "다음에 연습 끝나면 같이 밥 먹어요!!",
+          "time": "2026-10-30 18:59",
+          "senderId": "jisung"
+        },
+        {
+          "id": "js-022",
+          "body": "형이 두유 쓰는 가게 세 군데 저장해 놨던데",
+          "time": "2026-10-31 00:05",
+          "senderId": "jisung",
+          "unlock": "r_yes"
+        },
+        {
+          "id": "js-023",
+          "body": "아 이거 내가 말했다고 하지 마요ㅠㅠㅠ",
+          "time": "2026-10-31 00:05",
+          "senderId": "jisung",
+          "unlock": "r_yes"
+        }
+      ]
+    },
+    {
+      "id": "chat-haechan",
+      "app": "kakao",
+      "title": "Haechan",
+      "participants": [
+        "owner",
+        "haechan"
+      ],
+      "messages": [
+        {
+          "id": "hc-001",
+          "body": "야야야 형이 너 필름 사진 계속 봐ㅋㅋㅋㅋ",
+          "time": "2026-10-28 17:00",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-002",
+          "body": "哪张？我拍得很烂的那些？",
+          "time": "2026-10-28 17:04",
+          "senderId": "owner"
+        },
+        {
+          "id": "hc-003",
+          "body": "아니ㅋㅋ 나 보면 계속 확대해서 보더라",
+          "time": "2026-10-28 17:04",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-004",
+          "body": "형 그런 사람 아닌데 ㅋㅋㅋㅋ",
+          "time": "2026-10-28 17:05",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-005",
+          "body": "他只是在帮我看构图吧",
+          "time": "2026-10-28 17:09",
+          "senderId": "owner"
+        },
+        {
+          "id": "hc-006",
+          "body": "구도 보는 얼굴이 아니었어 내가 봄",
+          "time": "2026-10-28 17:10",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-007",
+          "body": "아 그리고 나 오늘 헬스 갔다 옴. 컨디션 100000%",
+          "time": "2026-10-28 17:12",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-008",
+          "body": "你精神好得让人羡慕",
+          "time": "2026-10-28 17:15",
+          "senderId": "owner"
+        },
+        {
+          "id": "hc-009",
+          "body": "내가 에너지 담당이잖아 ㅋㅋ",
+          "time": "2026-10-28 17:15",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-010",
+          "body": "야 너 스토리 올렸지? 딸기 타르트",
+          "time": "2026-10-29 18:40",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-011",
+          "body": "형이 보고 나서 하루 종일 웃음ㅋㅋㅋ",
+          "time": "2026-10-29 18:41",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-012",
+          "body": "他不是不吃草莓吗",
+          "time": "2026-10-29 18:44",
+          "senderId": "owner"
+        },
+        {
+          "id": "hc-013",
+          "body": "그게 문제가 아니야 ㅋㅋㅋ",
+          "time": "2026-10-29 18:45",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-reveal",
+          "body": "그리고 형 폰 배경화면 알려줄까? 비밀인데",
+          "time": "2026-10-29 18:55",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-015",
+          "body": "형이 찍은 네 손 사진임ㅋㅋㅋ 전시회 날 필름 갈던 거",
+          "time": "2026-10-29 18:55",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-016",
+          "body": "나한테 들었다고 하지 마",
+          "time": "2026-10-29 18:56",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-017",
+          "body": "……等一下，他什么时候拍的？",
+          "time": "2026-10-29 19:02",
+          "senderId": "owner"
+        },
+        {
+          "id": "hc-018",
+          "body": "나도 몰라ㅋㅋㅋ 형은 말 안 해",
+          "time": "2026-10-29 19:03",
+          "senderId": "haechan"
+        },
+        {
+          "id": "hc-019",
+          "body": "야 내일 약속 있다며?? 형이 방금 단톡에서 말 돌림",
+          "time": "2026-10-30 23:34",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-020",
+          "body": "데이트 아니야???",
+          "time": "2026-10-30 23:35",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-021",
+          "body": "형 달빛제과 토요일 영업시간 외우고 있던데 ㅋㅋㅋㅋㅋ",
+          "time": "2026-10-30 23:36",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-022",
+          "body": "你怎么知道得这么清楚",
+          "time": "2026-10-30 23:38",
+          "senderId": "owner",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-023",
+          "body": "내가 형 폰 화면 봤지ㅋㅋ 지도 앱에 저장돼 있었음",
+          "time": "2026-10-30 23:38",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-024",
+          "body": "아 그리고 너 선물 하나 사 가",
+          "time": "2026-10-30 23:39",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-025",
+          "body": "내 쿠팡 와우 카드 써. 나중에 밥만 사",
+          "time": "2026-10-30 23:39",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        },
+        {
+          "id": "hc-026",
+          "body": "일본어 입문 카드 같은 거? 형 요즘 그거 보고 있어",
+          "time": "2026-10-30 23:40",
+          "senderId": "haechan",
+          "unlock": "h_tease"
+        }
+      ]
+    },
+    {
+      "id": "chat-jeno",
+      "app": "kakao",
+      "title": "Jeno",
+      "participants": [
+        "owner",
+        "jeno"
+      ],
+      "messages": [
+        {
+          "id": "jn-001",
+          "body": "게임 할래?",
+          "time": "2026-10-28 23:10",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-002",
+          "body": "我技术很差，会拖后腿",
+          "time": "2026-10-28 23:18",
+          "senderId": "owner"
+        },
+        {
+          "id": "jn-003",
+          "body": "ㅇㅇ 알아",
+          "time": "2026-10-28 23:19",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-004",
+          "body": "괜찮아. 어차피 나도 4연패 중",
+          "time": "2026-10-28 23:19",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-005",
+          "body": "这算安慰吗",
+          "time": "2026-10-28 23:21",
+          "senderId": "owner"
+        },
+        {
+          "id": "jn-006",
+          "body": "응",
+          "time": "2026-10-28 23:22",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-007",
+          "body": "재민이 요즘 일본어 앱 연속 14일째",
+          "time": "2026-10-29 14:03",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-008",
+          "body": "14일 동안 하루도 안 빠짐",
+          "time": "2026-10-29 14:03",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-009",
+          "body": "他很认真",
+          "time": "2026-10-29 14:10",
+          "senderId": "owner"
+        },
+        {
+          "id": "jn-010",
+          "body": "원래 그런 사람이긴 해",
+          "time": "2026-10-29 14:11",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-011",
+          "body": "근데 평소엔 알림 끄는 사람이야",
+          "time": "2026-10-29 14:12",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-012",
+          "body": "所以呢？",
+          "time": "2026-10-29 14:15",
+          "senderId": "owner"
+        },
+        {
+          "id": "jn-013",
+          "body": "그냥 그렇다고",
+          "time": "2026-10-29 14:16",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-014",
+          "body": "걔 숨기는 거 못 해. 표정에 다 나옴",
+          "time": "2026-10-30 21:40",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-015",
+          "body": "그래서 우리는 다 알고 있음",
+          "time": "2026-10-30 21:41",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-016",
+          "body": "你们知道什么？",
+          "time": "2026-10-30 21:46",
+          "senderId": "owner"
+        },
+        {
+          "id": "jn-017",
+          "body": "…나는 말 안 했다",
+          "time": "2026-10-30 21:47",
+          "senderId": "jeno"
+        },
+        {
+          "id": "jn-018",
+          "body": "게임이나 하자. 나중에",
+          "time": "2026-10-30 21:47",
+          "senderId": "jeno"
+        }
+      ]
+    },
+    {
+      "id": "chat-dream",
+      "app": "kakao",
+      "title": "DREAM 小群 🍀",
+      "participants": [
+        "owner",
+        "jaemin",
+        "jisung",
+        "haechan",
+        "jeno"
+      ],
+      "messages": [
+        {
+          "id": "gp-001",
+          "body": "야 오늘 저녁 뭐 먹지",
+          "time": "2026-10-28 19:02",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-002",
+          "body": "치킨 vs 피자 투표 ㄱㄱ",
+          "time": "2026-10-28 19:02",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-003",
+          "body": "치킨!!!!!!",
+          "time": "2026-10-28 19:03",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-004",
+          "body": "피자",
+          "time": "2026-10-28 19:05",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-005",
+          "body": "재노 또 반대로 하네",
+          "time": "2026-10-28 19:05",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-006",
+          "body": "맛으로 투표한 건데",
+          "time": "2026-10-28 19:06",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-007",
+          "body": "나는 오늘 집밥. 김치볶음밥 해 먹을 거야",
+          "time": "2026-10-28 19:10",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-008",
+          "body": "형 또 요리한다ㅠㅠ 나도 먹고 싶어요",
+          "time": "2026-10-28 19:10",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-009",
+          "body": "다음에 해 줄게",
+          "time": "2026-10-28 19:11",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-010",
+          "body": "그 다음엔 누구 줄 건데ㅋㅋ",
+          "time": "2026-10-28 19:11",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-011",
+          "body": "고양이들",
+          "time": "2026-10-28 19:12",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-012",
+          "body": "你们的晚饭群聊怎么这么吵",
+          "time": "2026-10-28 19:20",
+          "senderId": "owner"
+        },
+        {
+          "id": "gp-013",
+          "body": "ㅋㅋㅋㅋ 이게 우리 일상이야",
+          "time": "2026-10-28 19:20",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-014",
+          "body": "환영합니다~ 🎉",
+          "time": "2026-10-28 19:21",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-015",
+          "body": "야 오늘 아무도 안 자냐",
+          "time": "2026-10-29 21:00",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-016",
+          "body": "자는 사람 없음",
+          "time": "2026-10-29 21:03",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-017",
+          "body": "저 안무 영상 보는 중",
+          "time": "2026-10-29 21:03",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-018",
+          "body": "일본어 숙제",
+          "time": "2026-10-29 21:05",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-019",
+          "body": "숙제ㅋㅋㅋ 형 언제부터 이렇게 성실했어",
+          "time": "2026-10-29 21:05",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-020",
+          "body": "원래 성실했는데",
+          "time": "2026-10-29 21:06",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-021",
+          "body": "...",
+          "time": "2026-10-29 21:06",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-022",
+          "body": "그건 좀",
+          "time": "2026-10-29 21:07",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-023",
+          "body": "ㅋㅋㅋㅋㅋ 재노 형 팩폭",
+          "time": "2026-10-29 21:07",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-024",
+          "body": "너희 둘 내일 연습실에서 보자",
+          "time": "2026-10-29 21:08",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-025",
+          "body": "무섭다 무섭다",
+          "time": "2026-10-29 21:09",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-026",
+          "body": "점심 메뉴 추천 좀ㅠㅠ 맨날 급식 같은 식당만 가요",
+          "time": "2026-10-30 12:30",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-027",
+          "body": "나는 제육",
+          "time": "2026-10-30 12:31",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-028",
+          "body": "순두부",
+          "time": "2026-10-30 12:33",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-029",
+          "body": "소화 잘 되는 거 먹어. 오후 스케줄 길잖아",
+          "time": "2026-10-30 12:40",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-030",
+          "body": "형 엄마 같아요ㅋㅋㅋ",
+          "time": "2026-10-30 12:41",
+          "senderId": "jisung"
+        },
+        {
+          "id": "gp-031",
+          "body": "엄마 아니고 형",
+          "time": "2026-10-30 12:42",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-032",
+          "body": "형 지금 폰 계속 보는 거 다 보임ㅋㅋ",
+          "time": "2026-10-30 22:50",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-033",
+          "body": "게임 아니고 번역기",
+          "time": "2026-10-30 22:51",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-034",
+          "body": "번역기라고 해 두자",
+          "time": "2026-10-30 22:52",
+          "senderId": "jeno"
+        },
+        {
+          "id": "gp-035",
+          "body": "누구한테 번역 돌리는 건데~~",
+          "time": "2026-10-30 22:52",
+          "senderId": "haechan"
+        },
+        {
+          "id": "gp-036",
+          "body": "야 그만",
+          "time": "2026-10-30 22:53",
+          "senderId": "jaemin"
+        },
+        {
+          "id": "gp-037",
+          "body": "저는 아무 말도 안 했습니다 🙊",
+          "time": "2026-10-30 22:53",
+          "senderId": "jisung"
+        }
+      ]
+    }
+  ],
+  "content": {
+    "instagram": [
+      {
+        "id": "ig-jm-post-1",
+        "title": "오늘의 빛",
+        "body": "오늘의 빛 ☀️ #필름 #성수",
+        "time": "2026-10-26 18:22",
+        "sender": "jaemin.lens",
+        "meta": {
+          "place": "성수"
+        },
+        "likes": 128400,
+        "comments": [
+          "haechan_sun：누구 찍은 거야?? 🤔",
+          "jisung.talk：형 사진 늘었다!!",
+          "jeno_gamer：배경은 괜찮네",
+          "fan_dreamer：빛이 너무 예쁘다 ㅠㅠ",
+          "lens_note：이 노란 슬리브 컵 어디 거지?"
+        ]
+      },
+      {
+        "id": "ig-jm-post-2",
+        "title": "Luna · Lucy · Luke",
+        "body": "세 마리 출근 완료 🐈🐈‍⬛🐈",
+        "time": "2026-10-12 09:10",
+        "sender": "jaemin.lens",
+        "likes": 203100,
+        "comments": [
+          "haechan_sun：Luke 표정 왜 저래ㅋㅋㅋ",
+          "jisung.talk：다들 너무 귀여워요!!",
+          "fan_dreamer：삼형제 지켜주세요 🥹"
+        ]
+      },
+      {
+        "id": "ig-owner-post",
+        "title": "10.09 성수 필름 전시",
+        "body": "10.09 성수 필름 전시 · 첫 롤 ✨",
+        "time": "2026-10-09 19:40",
+        "sender": "your.frames",
+        "likes": 36,
+        "comments": [
+          "jaemin.lens：이 사진 입구 쪽에서 찍었지?"
+        ]
+      },
+      {
+        "id": "ig-owner-story-1",
+        "title": "딸기 타르트 🍓",
+        "body": "새로 발견한 디저트집 · 달빛제과",
+        "time": "2026-10-29 18:05",
+        "sender": "your.frames",
+        "meta": {
+          "story": "true",
+          "viewers": "jaemin.lens · haechan_sun · jisung.talk",
+          "note": "jaemin.lens 已查看，没有点赞"
+        },
+        "folder": "Story"
+      },
+      {
+        "id": "ig-owner-story-2",
+        "title": "노란 슬리브 컵",
+        "body": "퇴근길 라떼",
+        "time": "2026-10-20 17:52",
+        "sender": "your.frames",
+        "meta": {
+          "story": "true",
+          "viewers": "jaemin.lens"
+        },
+        "folder": "Story"
+      },
+      {
+        "id": "ig-jm-story-1",
+        "title": "Luna 야식 요구 중",
+        "body": "Luna 야식 요구 중ㅋㅋ",
+        "time": "2026-10-30 22:40",
+        "sender": "jaemin.lens",
+        "meta": {
+          "story": "true",
+          "audience": "친한 친구"
+        },
+        "folder": "Story"
+      },
+      {
+        "id": "ig-dm-jaemin",
+        "title": "jaemin.lens",
+        "body": "스토리 잘 봤어 ㅎㅎ 근데 타르트는 네가 먹어",
+        "time": "2026-10-29 18:35",
+        "sender": "jaemin.lens",
+        "folder": "私信"
+      },
+      {
+        "id": "ig-dm-haechan",
+        "title": "haechan_sun",
+        "body": "야 너 형한테 무슨 스토리 올렸길래 형이 계속 웃어?",
+        "time": "2026-10-29 18:48",
+        "sender": "haechan_sun",
+        "folder": "私信"
+      }
+    ],
+    "twitter": [
+      {
+        "id": "tw-1",
+        "title": "",
+        "body": "오늘 연습 끝! 컨디션 100000% 🔥",
+        "time": "2026-10-30 21:02",
+        "sender": "Haechan",
+        "meta": {
+          "handle": "hc_sunshine",
+          "reposts": "842"
+        },
+        "likes": 15200
+      },
+      {
+        "id": "tw-2",
+        "title": "",
+        "body": "라면 2개 끓였는데 3개 먹음",
+        "time": "2026-10-29 23:11",
+        "sender": "Jisung",
+        "meta": {
+          "handle": "jisung_ramyeon",
+          "reposts": "1203"
+        },
+        "likes": 22300
+      },
+      {
+        "id": "tw-3",
+        "title": "",
+        "body": "랭크 4연패… 오늘은 접는다",
+        "time": "2026-10-28 23:40",
+        "sender": "Jeno",
+        "meta": {
+          "handle": "jn_gamer",
+          "reposts": "560"
+        },
+        "likes": 9800
+      },
+      {
+        "id": "tw-4",
+        "title": "",
+        "body": "地铁上遇到一束很好看的光 🌇",
+        "time": "2026-10-27 18:20",
+        "sender": "你",
+        "meta": {
+          "handle": "moments_by_you",
+          "reposts": "0"
+        },
+        "likes": 12
+      },
+      {
+        "id": "tw-5",
+        "title": "",
+        "body": "요즘 인스타 사진 톤 바뀐 거 나만 느끼나… 누가 찍어 주는 걸까 🤔",
+        "time": "2026-10-27 01:12",
+        "sender": "dream_lens_kr",
+        "meta": {
+          "handle": "dream_lens_kr",
+          "reposts": "377"
+        },
+        "likes": 2100
+      },
+      {
+        "id": "tw-6",
+        "title": "",
+        "body": "필름 바꿔서 그런 걸 수도 있으니 과몰입은 금지 ㅋㅋ",
+        "time": "2026-10-27 01:40",
+        "sender": "calm_analyst",
+        "meta": {
+          "handle": "calm_analyst",
+          "reposts": "41"
+        },
+        "likes": 530
+      }
+    ],
+    "threads": [
+      {
+        "id": "th-1",
+        "title": "",
+        "body": "형이 요즘 폰만 봄. 나한테는 안 알려줌 ㅋㅋ",
+        "time": "2026-10-30 20:15",
+        "sender": "jisung.talk",
+        "kind": "post",
+        "likes": 4100,
+        "comments": [
+          "haechan_sun：나는 알고 있음",
+          "jeno_gamer：나도"
+        ]
+      },
+      {
+        "id": "th-2",
+        "title": "",
+        "body": "오늘의 교훈: 안무는 외우는 게 아니라 몸이 기억하는 것",
+        "time": "2026-10-29 19:30",
+        "sender": "haechan_sun",
+        "kind": "post",
+        "likes": 2800
+      },
+      {
+        "id": "th-3",
+        "title": "",
+        "body": "퇴근 후 라떼 한 잔이 하루를 살린다",
+        "time": "2026-10-28 18:40",
+        "sender": "your.frames",
+        "kind": "post",
+        "likes": 9,
+        "comments": [
+          "jaemin.lens：노란 슬리브 컵 또 있네"
+        ]
+      },
+      {
+        "id": "th-act-1",
+        "title": "",
+        "body": "답글：그 컵 어디 거예요?",
+        "time": "2026-10-28 19:02",
+        "sender": "lens_note",
+        "meta": {
+          "activityType": "reply"
+        }
+      },
+      {
+        "id": "th-dm-1",
+        "title": "Jisung",
+        "body": "야 아까 말 실수했다 ㅠㅠ 못 본 걸로 해 줘",
+        "time": "2026-10-30 19:20",
+        "sender": "jisung.talk",
+        "folder": "私信"
+      }
+    ],
+    "forum": [
+      {
+        "id": "fo-1",
+        "title": "[잡담] 재민 인스타 사진 톤 바뀐 거 나만 느낌?",
+        "body": "최근 3주 사이에 빛 쓰는 방식이 달라졌다는 의견이 많음. 누가 찍는지는 아무도 모름.",
+        "time": "2026-10-27 02:30",
+        "sender": "익명1",
+        "meta": {
+          "views": "48210",
+          "status": "热帖"
+        },
+        "comments": [
+          "CP러：옛날 사진이랑 비교해 보면 확실히 다름 ㅋㅋ 근데 진짜 필름 바꿨을 수도",
+          "유저A：멤버가 찍어준 거 아냐? 과몰입 금지",
+          "팬B：그냥 사진 실력이 느는 중이라고 생각하면 마음 편함",
+          "걱정러：이런 글 너무 커지면 본인한테 부담될 듯",
+          "분석러：근거 없이 단정하지 말자. 배경 소품이 같다는 것만 확인됨"
+        ]
+      },
+      {
+        "id": "fo-2",
+        "title": "[분석] 노란 슬리브 컵 사진 모음",
+        "body": "게시물 3개에 나오는 컵이 같은 브랜드로 보인다는 주장. 반박도 많음.",
+        "time": "2026-10-29 22:10",
+        "sender": "익명2",
+        "meta": {
+          "views": "21044",
+          "status": "讨论中"
+        },
+        "comments": [
+          "유저C：브랜드 같아도 흔한 컵임",
+          "팬D：그냥 카페 컵이잖아요",
+          "정리러：결론: 아직 아무것도 확정된 게 없음"
+        ]
+      },
+      {
+        "id": "fo-3",
+        "title": "[질문] 두유라떼 되는 성수 카페 추천",
+        "body": "유제품이 안 맞는 사람이 갈 수 있는 곳 찾습니다.",
+        "time": "2026-10-30 15:02",
+        "sender": "익명3",
+        "meta": {
+          "views": "3320",
+          "status": "질문"
+        },
+        "comments": [
+          "유저E：달빛제과 두유 변경 가능함 (토요일 21시까지)",
+          "유저F：오트밀크도 됨"
+        ]
+      }
+    ],
+    "photos": [
+      {
+        "id": "ph-1",
+        "title": "Luna 窗边",
+        "body": "10/27 · 来自 Jaemin 的照片",
+        "time": "2026-10-27 20:41",
+        "sender": "Jaemin 🐈",
+        "kind": "image"
+      },
+      {
+        "id": "ph-2",
+        "title": "泡菜炒饭",
+        "body": "10/28 · 角落里有 Lucy 的尾巴",
+        "time": "2026-10-28 21:30",
+        "sender": "Jaemin 🐈",
+        "kind": "image"
+      },
+      {
+        "id": "ph-3",
+        "title": "展览入口",
+        "body": "10/09 · 第一次见面那天",
+        "time": "2026-10-09 19:38",
+        "sender": "你",
+        "kind": "image"
+      },
+      {
+        "id": "ph-4",
+        "title": "云很薄的天",
+        "body": "10/30 · Jaemin 说‘你可能会喜欢’",
+        "time": "2026-10-30 14:20",
+        "sender": "Jaemin 🐈",
+        "kind": "image"
+      },
+      {
+        "id": "photo-hidden-jm",
+        "title": "他拍的你的手",
+        "body": "展览那天，你低头换胶卷。画面里对焦在你的手上，逆光，边缘有点糊。后来他把它设成了壁纸。",
+        "time": "2026-10-09 19:52",
+        "sender": "Jaemin 🐈",
+        "kind": "image",
+        "hidden": true
+      }
+    ],
+    "notes": [
+      {
+        "id": "note-small",
+        "title": "关于 Jaemin 的小事",
+        "body": "不吃草莓，不太能喝牛奶。\nLuna 爱晒太阳，Lucy 爱抢位置，Luke 爱等饭。\n在学日语，片假名 シ/ツ 分不清。\n说中文‘早上好’发音很准。",
+        "time": "2026-10-28 22:10",
+        "sender": "你",
+        "kind": "note"
+      },
+      {
+        "id": "note-todo",
+        "title": "待办",
+        "body": "- 回 Jaemin 的消息\n- 下周交方案\n- 现像课 11/05",
+        "time": "2026-10-30 09:00",
+        "sender": "你",
+        "kind": "note"
+      },
+      {
+        "id": "note-secret",
+        "title": "只给自己看",
+        "body": "10.09：他在展览入口说‘光不错’，其实是在看我换胶卷。\n他说失败的照片不要删。\n他帮我看了护肤，没有说教，很像在认真照顾一个人。\n如果他问我有没有空，我大概会先装作要看看日程，再说好。",
+        "time": "2026-10-30 00:20",
+        "sender": "你",
+        "meta": {
+          "hint": "第一次见面的日期（MMDD）"
+        },
+        "kind": "note",
+        "password": "1009"
+      }
+    ],
+    "calendar": [
+      {
+        "id": "cal-1",
+        "title": "성수 필름 전시 · 第一次见面",
+        "body": "",
+        "time": "2026-10-09 19:00",
+        "sender": "你",
+        "meta": {
+          "location": "성수",
+          "duration": "2小时"
+        }
+      },
+      {
+        "id": "cal-2",
+        "title": "现像课",
+        "body": "",
+        "time": "2026-11-05 19:00",
+        "sender": "你",
+        "meta": {
+          "location": "합정",
+          "duration": "2小时"
+        }
+      },
+      {
+        "id": "cal-3",
+        "title": "달빛제과 성수 · Jaemin",
+        "body": "2层窗边位。他说会先到。",
+        "time": "2026-10-31 14:00",
+        "sender": "你",
+        "meta": {
+          "location": "달빛제과 성수점",
+          "duration": "2小时"
+        },
+        "unlock": "date_set"
+      }
+    ],
+    "maps": [
+      {
+        "id": "map-1",
+        "title": "달빛제과 성수점",
+        "body": "可选豆奶/燕麦奶，周六营业至 21:00",
+        "time": "2026-10-30 15:10",
+        "sender": "你",
+        "meta": {
+          "address": "서울 성동구 성수 (虚构地点)",
+          "x": "62",
+          "y": "41"
+        }
+      }
+    ],
+    "safari": [
+      {
+        "id": "sf-1",
+        "title": "성수 두유 디저트",
+        "body": "搜索记录",
+        "time": "2026-10-30 15:00",
+        "sender": "你",
+        "meta": {
+          "url": "search://성수 두유 디저트"
+        }
+      },
+      {
+        "id": "sf-2",
+        "title": "가타카나 シ ツ 구분",
+        "body": "搜索记录",
+        "time": "2026-10-29 08:55",
+        "sender": "你",
+        "meta": {
+          "url": "search://가타카나 시 츠 구분"
+        }
+      }
+    ],
+    "phone": [
+      {
+        "id": "call-1",
+        "title": "Jaemin 🐈",
+        "body": "未接来电",
+        "time": "2026-10-29 21:12",
+        "sender": "Jaemin 🐈",
+        "meta": {
+          "number": "",
+          "status": "未接来电"
+        },
+        "kind": "call"
+      },
+      {
+        "id": "call-2",
+        "title": "Jaemin 🐈",
+        "body": "通话 6 分钟",
+        "time": "2026-10-28 22:10",
+        "sender": "Jaemin 🐈",
+        "meta": {
+          "number": "",
+          "status": "已接通"
+        },
+        "kind": "call"
+      }
+    ],
+    "music": [
+      {
+        "id": "mu-1",
+        "title": "Luna 낮잠 BGM",
+        "body": "Jaemin 共享的歌单（虚构）",
+        "time": "2026-10-27 21:15",
+        "sender": "Jaemin 🐈",
+        "meta": {
+          "album": "共享歌单",
+          "duration": "42分钟"
+        }
+      }
+    ],
+    "taobao": [
+      {
+        "id": "cp-cart-1",
+        "title": "두유 무가당 190ml 24팩",
+        "body": "购物车 · 未结算",
+        "time": "2026-10-29 20:05",
+        "sender": "🛒 购物车",
+        "meta": {
+          "price": "18,900",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-cart-2",
+        "title": "필름 카메라 스트랩 카키",
+        "body": "购物车 · 未结算",
+        "time": "2026-10-28 22:30",
+        "sender": "🛒 购物车",
+        "meta": {
+          "price": "14,900",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-cart-3",
+        "title": "보냉 파우치 (케이크용)",
+        "body": "购物车 · 未结算",
+        "time": "2026-10-30 15:20",
+        "sender": "🛒 购物车",
+        "meta": {
+          "price": "6,900",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-deal-1",
+        "title": "오트밀크 (귀리음료) 6팩",
+        "body": "로켓배송 오늘의 특가",
+        "time": "2026-10-30 09:00",
+        "sender": "특가",
+        "meta": {
+          "price": "11,900",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-deal-2",
+        "title": "무향 보습 크림 (민감성)",
+        "body": "로켓배송",
+        "time": "2026-10-30 09:00",
+        "sender": "특가",
+        "meta": {
+          "price": "17,900",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-deal-3",
+        "title": "접이식 미니 드라이어",
+        "body": "로켓배송",
+        "time": "2026-10-30 09:00",
+        "sender": "특가",
+        "meta": {
+          "price": "21,500",
+          "currency": "₩"
+        }
+      },
+      {
+        "id": "cp-ord-1",
+        "title": "필름 ISO400 36장 3롤",
+        "body": "购买人：你",
+        "time": "2026-10-20 21:03",
+        "sender": "Coupang",
+        "meta": {
+          "price": "28,500",
+          "currency": "₩",
+          "status": "已完成",
+          "number": "CP-20261020-0812"
+        },
+        "folder": "订单"
+      },
+      {
+        "id": "cp-ord-2",
+        "title": "무향 보습 크림 (민감성)",
+        "body": "购买人：你 · 无香款",
+        "time": "2026-10-29 20:12",
+        "sender": "Coupang",
+        "meta": {
+          "price": "17,900",
+          "currency": "₩",
+          "status": "待收货",
+          "number": "CP-20261029-4471"
+        },
+        "folder": "订单"
+      },
+      {
+        "id": "cp-ord-3",
+        "title": "히라가나 카드 세트 + 고양이 낚싯대",
+        "body": "结算：Haechan 的 Coupang 卡（代付，之后请他吃饭）· 收件：你",
+        "time": "2026-10-30 23:44",
+        "sender": "Coupang",
+        "meta": {
+          "price": "17,300",
+          "currency": "₩",
+          "status": "待收货",
+          "number": "CP-20261030-9026"
+        },
+        "folder": "订单",
+        "unlock": "card_used"
+      },
+      {
+        "id": "cp-trk-2",
+        "title": "무향 보습 크림",
+        "body": "로켓배송 · 오늘 도착 예정",
+        "time": "2026-10-30 06:12",
+        "sender": "Coupang",
+        "meta": {
+          "price": "17,900",
+          "currency": "₩",
+          "status": "待收货",
+          "tracking": "성동 캠프 → 배송 출발 (10/30 06:12)"
+        },
+        "folder": "物流"
+      },
+      {
+        "id": "cp-trk-3",
+        "title": "히라가나 카드 + 낚싯대",
+        "body": "새벽배송 예약",
+        "time": "2026-10-30 23:44",
+        "sender": "Coupang",
+        "meta": {
+          "price": "17,300",
+          "currency": "₩",
+          "status": "待收货",
+          "tracking": "10/31 07:00 前送达 · 已装入保冷袋"
+        },
+        "folder": "物流",
+        "unlock": "card_used"
+      }
+    ]
+  },
+  "variables": {
+    "tone": "",
+    "date": "",
+    "final": "",
+    "home_done": false,
+    "asked": false,
+    "date_set": false,
+    "card_used": false,
+    "card_skip": false,
+    "notes_found": false,
+    "hidden_ready": false,
+    "r_warm": false,
+    "r_cool": false,
+    "r_yes": false,
+    "r_maybe": false,
+    "r_late_go": false,
+    "r_stay": false,
+    "h_tease": false,
+    "m_morning": false,
+    "morning": false,
+    "f_honest": false,
+    "f_slow": false
+  },
+  "events": [
+    {
+      "id": "start",
+      "label": "开始",
+      "type": "start",
+      "actions": [
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin 发来 3 条新消息（点开聊天，点一下最后那条回复他）"
+        }
+      ],
+      "next": [
+        "call-fallback"
+      ]
+    },
+    {
+      "id": "call-fallback",
+      "label": "来电（你一直没回）",
+      "type": "delay",
+      "delayMs": 150000,
+      "conditions": [
+        {
+          "key": "home_done",
+          "op": "neq",
+          "value": true
+        }
+      ],
+      "actions": [
+        {
+          "type": "call",
+          "key": "call-jaemin",
+          "value": "Jaemin 🐈"
+        }
+      ]
+    },
+    {
+      "id": "read-live-1",
+      "label": "读到他的询问",
+      "event": "read",
+      "target": "jm-live-1",
+      "next": [
+        "choice-home"
+      ]
+    },
+    {
+      "id": "read-live-2",
+      "label": "读到他的询问",
+      "event": "read",
+      "target": "jm-live-2",
+      "next": [
+        "choice-home"
+      ]
+    },
+    {
+      "id": "read-live-3",
+      "label": "读到他的询问",
+      "event": "read",
+      "target": "jm-live-3",
+      "next": [
+        "choice-home"
+      ]
+    },
+    {
+      "id": "answered",
+      "label": "接起电话",
+      "event": "callAnswered",
+      "target": "call-jaemin",
+      "next": [
+        "choice-home"
+      ]
+    },
+    {
+      "id": "declined",
+      "label": "挂断电话",
+      "event": "callDeclined",
+      "target": "call-jaemin",
+      "next": [
+        "choice-home"
+      ]
+    },
+    {
+      "id": "choice-home",
+      "label": "到家了吗？",
+      "type": "choice",
+      "next": [
+        "home-warm",
+        "home-cool"
+      ]
+    },
+    {
+      "id": "home-warm",
+      "label": "回他：到家了，刚洗完澡",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "tone",
+          "value": "warm"
+        },
+        {
+          "type": "variable",
+          "key": "r_warm",
+          "value": true
+        },
+        {
+          "type": "variable",
+          "key": "home_done",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:14"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin 正在输入…"
+        }
+      ],
+      "next": [
+        "ask-delay"
+      ]
+    },
+    {
+      "id": "home-cool",
+      "label": "回他：到了。",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "tone",
+          "value": "cool"
+        },
+        {
+          "type": "variable",
+          "key": "r_cool",
+          "value": true
+        },
+        {
+          "type": "variable",
+          "key": "home_done",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:14"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin 已读"
+        }
+      ],
+      "next": [
+        "ask-delay"
+      ]
+    },
+    {
+      "id": "ask-delay",
+      "label": "他又发来消息",
+      "type": "delay",
+      "delayMs": 4000,
+      "actions": [
+        {
+          "type": "variable",
+          "key": "asked",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:21"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin：내일 혹시 시간 돼?"
+        }
+      ],
+      "next": [
+        "choice-date"
+      ]
+    },
+    {
+      "id": "choice-date",
+      "label": "明天有空吗？",
+      "type": "choice",
+      "next": [
+        "date-yes",
+        "date-maybe"
+      ]
+    },
+    {
+      "id": "date-yes",
+      "label": "回他：好啊，几点？",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "date",
+          "value": "yes"
+        },
+        {
+          "type": "variable",
+          "key": "date_set",
+          "value": true
+        },
+        {
+          "type": "variable",
+          "key": "r_yes",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:32"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "日历：已添加 10/31 14:00 달빛제과 성수"
+        }
+      ],
+      "next": [
+        "tease-delay"
+      ]
+    },
+    {
+      "id": "tease-delay",
+      "label": "Haechan 来起哄",
+      "type": "delay",
+      "delayMs": 5000,
+      "actions": [
+        {
+          "type": "variable",
+          "key": "h_tease",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:38"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Haechan：데이트 아니야???"
+        }
+      ],
+      "next": [
+        "choice-card"
+      ]
+    },
+    {
+      "id": "choice-card",
+      "label": "用 Haechan 的卡买礼物？",
+      "type": "choice",
+      "next": [
+        "card-use",
+        "card-skip"
+      ]
+    },
+    {
+      "id": "card-use",
+      "label": "用 Haechan 的 Coupang 卡买日语卡片",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "card_used",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:44"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "Coupang：已下单（Haechan 的卡）· 明早 7 点前送达"
+        }
+      ],
+      "next": [
+        "morning-delay"
+      ]
+    },
+    {
+      "id": "card-skip",
+      "label": "不用，自己准备",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "card_skip",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:44"
+        }
+      ],
+      "next": [
+        "morning-delay"
+      ]
+    },
+    {
+      "id": "morning-delay",
+      "label": "第二天",
+      "type": "delay",
+      "delayMs": 5000,
+      "actions": [
+        {
+          "type": "date",
+          "key": "",
+          "value": "2026-10-31"
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "13:41"
+        },
+        {
+          "type": "variable",
+          "key": "morning",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin：나 도착했어. 자리 맡아 놨어"
+        }
+      ],
+      "next": [
+        "prep-hidden",
+        "prep-normal"
+      ]
+    },
+    {
+      "id": "prep-hidden",
+      "label": "准备：线索齐全",
+      "type": "action",
+      "conditions": [
+        {
+          "key": "card_used",
+          "op": "eq",
+          "value": true
+        },
+        {
+          "key": "notes_found",
+          "op": "eq",
+          "value": true
+        }
+      ],
+      "actions": [
+        {
+          "type": "variable",
+          "key": "hidden_ready",
+          "value": true
+        }
+      ],
+      "next": [
+        "final-choice"
+      ]
+    },
+    {
+      "id": "prep-normal",
+      "label": "准备：普通路线",
+      "type": "action",
+      "logic": "not",
+      "conditions": [
+        {
+          "key": "card_used",
+          "op": "eq",
+          "value": true
+        },
+        {
+          "key": "notes_found",
+          "op": "eq",
+          "value": true
+        }
+      ],
+      "next": [
+        "final-choice"
+      ]
+    },
+    {
+      "id": "final-choice",
+      "label": "在咖啡店门口",
+      "type": "choice",
+      "next": [
+        "final-honest",
+        "final-slow"
+      ]
+    },
+    {
+      "id": "final-honest",
+      "label": "当面把话说出口",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "final",
+          "value": "honest"
+        },
+        {
+          "type": "variable",
+          "key": "f_honest",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "13:54"
+        }
+      ],
+      "next": [
+        "end-c",
+        "end-a"
+      ]
+    },
+    {
+      "id": "final-slow",
+      "label": "不急，慢慢来",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "final",
+          "value": "slow"
+        },
+        {
+          "type": "variable",
+          "key": "f_slow",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "13:53"
+        }
+      ],
+      "next": [
+        "end-b"
+      ]
+    },
+    {
+      "id": "end-c",
+      "label": "结局 C",
+      "type": "ending",
+      "conditions": [
+        {
+          "key": "hidden_ready",
+          "op": "eq",
+          "value": true
+        }
+      ],
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "C · 给你的包裹：假日清晨到的小包裹、翻开的备忘录、还有他一直没说出口的那句话，终于都有了回应。"
+        }
+      ]
+    },
+    {
+      "id": "end-a",
+      "label": "结局 A",
+      "type": "ending",
+      "conditions": [
+        {
+          "key": "hidden_ready",
+          "op": "neq",
+          "value": true
+        }
+      ],
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "A · 没有牛奶的拿铁：你把话说出口了，他也没有再用玩笑绕开。"
+        }
+      ]
+    },
+    {
+      "id": "end-b",
+      "label": "结局 B",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "B · 慢慢来：你们都没有逃，也没有再往前一步。下一次，他说由他来订位。"
+        }
+      ]
+    },
+    {
+      "id": "date-maybe",
+      "label": "回他：我看看明天安排，早上再回你",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "date",
+          "value": "maybe"
+        },
+        {
+          "type": "variable",
+          "key": "r_maybe",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "23:29"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin：응 괜찮아"
+        }
+      ],
+      "next": [
+        "maybe-delay"
+      ]
+    },
+    {
+      "id": "maybe-delay",
+      "label": "第二天上午",
+      "type": "delay",
+      "delayMs": 5000,
+      "actions": [
+        {
+          "type": "date",
+          "key": "",
+          "value": "2026-10-31"
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "11:20"
+        },
+        {
+          "type": "variable",
+          "key": "m_morning",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "KakaoTalk：Jaemin：나 지금 성수 근처야"
+        }
+      ],
+      "next": [
+        "choice-late"
+      ]
+    },
+    {
+      "id": "choice-late",
+      "label": "要去吗？",
+      "type": "choice",
+      "next": [
+        "late-go",
+        "late-stay"
+      ]
+    },
+    {
+      "id": "late-go",
+      "label": "回他：我想去。你还在吗？",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "date",
+          "value": "yes"
+        },
+        {
+          "type": "variable",
+          "key": "date_set",
+          "value": true
+        },
+        {
+          "type": "variable",
+          "key": "r_late_go",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "11:32"
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "日历：已添加 10/31 14:00 달빛제과 성수"
+        }
+      ],
+      "next": [
+        "morning-late"
+      ]
+    },
+    {
+      "id": "morning-late",
+      "label": "午后赴约",
+      "type": "delay",
+      "delayMs": 3000,
+      "actions": [
+        {
+          "type": "time",
+          "key": "",
+          "value": "13:41"
+        },
+        {
+          "type": "variable",
+          "key": "morning",
+          "value": true
+        }
+      ],
+      "next": [
+        "prep-hidden",
+        "prep-normal"
+      ]
+    },
+    {
+      "id": "late-stay",
+      "label": "回他：今天算了，下次",
+      "type": "action",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "r_stay",
+          "value": true
+        },
+        {
+          "type": "time",
+          "key": "",
+          "value": "11:40"
+        }
+      ],
+      "next": [
+        "end-b2"
+      ]
+    },
+    {
+      "id": "end-b2",
+      "label": "结局 B2",
+      "type": "ending",
+      "actions": [
+        {
+          "type": "ending",
+          "key": "",
+          "value": "B2 · 留在家里的周六：你选择了安静，他回了一句‘下次也可以’，并没有离开。"
+        }
+      ]
+    },
+    {
+      "id": "read-reveal",
+      "label": "Haechan 说漏嘴",
+      "event": "read",
+      "target": "hc-reveal",
+      "actions": [
+        {
+          "type": "unlock",
+          "key": "photo-hidden-jm",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "wallpaper-photo",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "相册：多了一张照片"
+        }
+      ]
+    },
+    {
+      "id": "read-note",
+      "label": "读到私密备忘录",
+      "event": "read",
+      "target": "note-secret",
+      "actions": [
+        {
+          "type": "variable",
+          "key": "notes_found",
+          "value": true
+        },
+        {
+          "type": "clue",
+          "key": "secret-note",
+          "value": true
+        },
+        {
+          "type": "notification",
+          "key": "",
+          "value": "备忘录：你想起了那天的细节"
+        }
+      ]
+    },
+    {
+      "id": "read-forum",
+      "label": "看论坛",
+      "event": "read",
+      "target": "fo-1",
+      "actions": [
+        {
+          "type": "clue",
+          "key": "forum-gossip",
+          "value": true
+        }
+      ]
+    }
+  ],
+  "tests": [
+    {
+      "name": "ending-a",
+      "steps": [
+        {
+          "event": "read",
+          "target": "jm-live-3"
+        },
+        {
+          "choose": "home-warm"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-yes"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "card-skip"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "final-honest"
+        }
+      ],
+      "ending": "A · 没有牛奶的拿铁：你把话说出口了，他也没有再用玩笑绕开。",
+      "expectUnlocked": []
+    },
+    {
+      "name": "ending-a-call",
+      "steps": [
+        {
+          "advanceMs": 150000
+        },
+        {
+          "event": "callAnswered",
+          "target": "call-jaemin"
+        },
+        {
+          "choose": "home-cool"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-yes"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "card-skip"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "final-honest"
+        }
+      ],
+      "ending": "A · 没有牛奶的拿铁：你把话说出口了，他也没有再用玩笑绕开。",
+      "expectUnlocked": []
+    },
+    {
+      "name": "ending-b",
+      "steps": [
+        {
+          "event": "read",
+          "target": "jm-live-1"
+        },
+        {
+          "choose": "home-warm"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-yes"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "card-skip"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "final-slow"
+        }
+      ],
+      "ending": "B · 慢慢来：你们都没有逃，也没有再往前一步。下一次，他说由他来订位。",
+      "expectUnlocked": []
+    },
+    {
+      "name": "ending-b2",
+      "steps": [
+        {
+          "event": "read",
+          "target": "jm-live-2"
+        },
+        {
+          "choose": "home-cool"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-maybe"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "late-stay"
+        }
+      ],
+      "ending": "B2 · 留在家里的周六：你选择了安静，他回了一句‘下次也可以’，并没有离开。",
+      "expectUnlocked": []
+    },
+    {
+      "name": "ending-c-hidden",
+      "steps": [
+        {
+          "event": "read",
+          "target": "hc-reveal"
+        },
+        {
+          "event": "read",
+          "target": "note-secret",
+          "password": "1009"
+        },
+        {
+          "event": "read",
+          "target": "fo-1"
+        },
+        {
+          "event": "read",
+          "target": "jm-live-3"
+        },
+        {
+          "choose": "home-warm"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-yes"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "card-use"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "final-honest"
+        }
+      ],
+      "ending": "C · 给你的包裹：假日清晨到的小包裹、翻开的备忘录、还有他一直没说出口的那句话，终于都有了回应。",
+      "expectUnlocked": [
+        "photo-hidden-jm"
+      ]
+    },
+    {
+      "name": "ending-c-via-maybe-no-card-is-a",
+      "steps": [
+        {
+          "event": "read",
+          "target": "hc-reveal"
+        },
+        {
+          "event": "read",
+          "target": "note-secret",
+          "password": "1009"
+        },
+        {
+          "event": "read",
+          "target": "jm-live-3"
+        },
+        {
+          "choose": "home-warm"
+        },
+        {
+          "advanceMs": 4000
+        },
+        {
+          "choose": "date-maybe"
+        },
+        {
+          "advanceMs": 5000
+        },
+        {
+          "choose": "late-go"
+        },
+        {
+          "advanceMs": 3000
+        },
+        {
+          "choose": "final-honest"
+        }
+      ],
+      "ending": "A · 没有牛奶的拿铁：你把话说出口了，他也没有再用玩笑绕开。",
+      "expectUnlocked": [
+        "photo-hidden-jm"
+      ]
+    }
+  ]
+}
